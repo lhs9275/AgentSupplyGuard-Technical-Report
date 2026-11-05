@@ -1,0 +1,103 @@
+{
+  "scope": "Derived aggregates from cited historical artifacts, not independent security truth",
+  "full_cohort": {
+    "changes": 8752,
+    "prs": 1101,
+    "reference_positive": 279
+  },
+  "retained": {
+    "changes": 4948,
+    "prs": 479,
+    "reference_positive": 278,
+    "reference_negative": 4670,
+    "positive_actions": {
+      "WARN": 105,
+      "BLOCK": 169,
+      "PASS": 4
+    },
+    "negative_actions": {
+      "PASS": 4449,
+      "BLOCK": 141,
+      "WARN": 80
+    },
+    "license_only_negative_blocks": 136,
+    "all_negative_pr_actions": {
+      "PASS": 292,
+      "BLOCK": 57,
+      "WARN": 15
+    },
+    "all_negative_pr_changes": 3040,
+    "all_negative_pr_change_blocks": 97,
+    "all_negative_pr_change_interventions": 140
+  },
+  "reporting_contracts": {
+    "declarations": 5790,
+    "unknown_c0": 1844,
+    "unknown_calt": 503,
+    "transition_causes": {
+      "scope_coordinates": 1241,
+      "supported_positive_saturation": 97,
+      "empty_observed_release_set": 3
+    },
+    "residual_causes": {
+      "indeterminate_membership": 293,
+      "incomplete_releases_with_determinate_membership": 179,
+      "unsupported_constraints": 18,
+      "unavailable_metadata": 13
+    }
+  },
+  "concentration": {
+    "scope": "Exploratory retained-ledger aggregation and selected frozen metadata parsing; not evaluator replay or security truth.",
+    "packaging": "26.0",
+    "declarations": 5790,
+    "packages": 945,
+    "transitions": 1341,
+    "transition_rate": 0.23160621761658032,
+    "transition_top_ten_packages": [
+      "numpy",
+      "requests",
+      "black",
+      "scipy",
+      "pydantic",
+      "streamlit",
+      "torch",
+      "fastapi",
+      "flask",
+      "setuptools"
+    ],
+    "top_ten_declarations": 1036,
+    "top_ten_frame_share": 0.17892918825561313,
+    "top_ten_transitions": 976,
+    "top_ten_transition_share": 0.7278150633855331,
+    "equal_package_weight_rate": 0.054703773901535885,
+    "distinct_package_raw_specifier_groups": 2500,
+    "equal_package_raw_specifier_group_weight_rate": 0.18212,
+    "mixed_transition_syntax_groups": 1,
+    "packages_with_all_rows_changed": 42,
+    "packages_with_some_rows_changed": 13,
+    "packages_with_no_rows_changed": 890,
+    "changed_error_source_signatures": 57,
+    "changed_error_source_entries": 465,
+    "changed_error_source_record_ids": 465,
+    "top_ten_signature_declarations": 962,
+    "partial_slice_declarations": 179,
+    "partial_slice_packages": 53,
+    "upload_gap_declarations": 148,
+    "upload_gap_packages": 42,
+    "distinct_upload_gap_release_entries": 163,
+    "upload_gap_declaration_kind_exposures": {
+      "empty_files_array": 148
+    },
+    "distinct_upload_gap_entry_kind_exposures": {
+      "empty_files_array": 163
+    },
+    "invalid_token_declarations": 31,
+    "invalid_token_packages": 11,
+    "distinct_invalid_tokens": 88,
+    "metadata_files_hash_verified": 53,
+    "new_evaluator_replay": false,
+    "new_security_truth": false
+  },
+  "accuracy_claim": "Not established",
+  "human_review_benefit": "Not measured"
+}

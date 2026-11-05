@@ -1,0 +1,25 @@
+{
+  "slurm_job": "16485",
+  "elapsed_seconds": 10.727435697976034,
+  "original_unknown_witnesses_verified": 1202,
+  "residual_unknown_witnesses_verified": 339,
+  "packages": 64,
+  "frozen_metadata_files_verified": 192,
+  "chosen_support_lanes": {
+    "ECOSYSTEM": 1202
+  },
+  "residual_chosen_support_lanes": {
+    "ECOSYSTEM": 339
+  },
+  "chosen_record_modified_after_cutoff": 956,
+  "residual_chosen_record_modified_after_cutoff": 230,
+  "witness_mismatches": 0,
+  "candidate_and_independent_agree": true,
+  "original_c0_unknown_reclassified": 0,
+  "residual_calt_unknown_reclassified": 0,
+  "installed_security_accuracy": false,
+  "human_review_benefit_measured": false,
+  "external_requests": 0,
+  "model_runs": 0,
+  "limits": "Fixed extracted constraints and frozen record semantics. Record correction, withdrawal, historical range availability and installed resolution are outside this proof."
+}

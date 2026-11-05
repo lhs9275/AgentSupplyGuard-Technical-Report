@@ -1,0 +1,39 @@
+{
+  "slurm_job": "16411",
+  "artifact_files_verified": 5638,
+  "python": "3.14.4",
+  "packaging": "26.0",
+  "exact_full_ledger_matches": {
+    "E0_v1": 8752,
+    "E0_v2": 8752,
+    "E0_v3": 8752,
+    "E1_v2": 8752,
+    "E1_v3": 8752
+  },
+  "change_ledger_exact": true,
+  "retained_regressions": {
+    "E0_v1": {
+      "retained_changes": 4948,
+      "mismatches": 0,
+      "differences": []
+    },
+    "E0_v2": {
+      "retained_changes": 4948,
+      "mismatches": 0,
+      "differences": []
+    }
+  },
+  "summary_calculation_fields_exact": true,
+  "original_source_modified": false,
+  "original_checkout_imported": false,
+  "scanner_live_runs": 0,
+  "model_runs": 0,
+  "new_registry_requests": 0,
+  "independent_security_truth": false,
+  "coverage": "Frozen policy decisions and fired stages; not original PR collection, labels, scanner execution or installed security.",
+  "record_kind": "Historical receipt excerpt, not a fresh policy run",
+  "omitted_fields": [
+    "import_paths (machine-local paths)"
+  ],
+  "raw_receipt_source": "revision/retained_v2_reproduction_20261105_v1/replay-results/VERIFICATION.json"
+}

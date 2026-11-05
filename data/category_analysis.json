@@ -1,0 +1,41 @@
+{
+  "scope": "Post-hoc bounded category analysis on 79 date-only UNKNOWNs with no advisory-channel errors.",
+  "qualifying_rows": 79,
+  "qualifying_packages": 33,
+  "determinate_rows": 79,
+  "determinate_states": {
+    "NO_OBSERVED_MATCH": 58,
+    "SOME_OBSERVED_MATCH": 21
+  },
+  "ambiguous_rows": 0,
+  "state_sets": {
+    "NO_OBSERVED_MATCH": 58,
+    "SOME_OBSERVED_MATCH": 21
+  },
+  "determinate_packages": 33,
+  "positive_negative_pair_rows": 21,
+  "no_match_rows_without_pre_cutoff_advisory": 57,
+  "some_match_packages": [
+    "dnspython",
+    "fonttools",
+    "gdown",
+    "gunicorn",
+    "httpx",
+    "openpyxl",
+    "psutil",
+    "python-jose",
+    "pyyaml",
+    "reportlab"
+  ],
+  "optional_release_token_evaluations": 755,
+  "distinct_optional_release_tokens": 141,
+  "exhaustive_logic_cases": 81,
+  "metadata_files_hash_verified": 99,
+  "support_coordinates_changed": false,
+  "advisory_matching_changed": false,
+  "completeness_reporting_rule_changed": true,
+  "new_upload_dates_obtained": false,
+  "installed_security_truth": false,
+  "full_evaluator_replay": false,
+  "limits": "Finite retained release keys and frozen advisories only. Missing keys, new advisories, and revised known witnesses are outside this completion model."
+}

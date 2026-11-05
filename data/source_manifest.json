@@ -1,0 +1,181 @@
+{
+  "snapshot": "technical-report-20261105-v1",
+  "sources": {
+    "R1": [
+      {
+        "path_in_research_checkout": "revision/sncs_submission_20261104_v1/source/manuscript.tex",
+        "sha256": "b6239d1fff05200f077da7d63a72836ebe5a7d6d2dd7ac76d43bfd76469b9314",
+        "bytes": 103435,
+        "raw_source_included": false
+      }
+    ],
+    "R2": [
+      {
+        "path_in_research_checkout": "revision/retained_v2_reproduction_20261105_v1/REPORT.md",
+        "sha256": "44795ea8406b671a45886589be64c65217d7c69d5b063918af3b1bc9ac99acb9",
+        "bytes": 9549,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/retained_v2_reproduction_20261105_v1/replay-results/RETAINED_TABLES.json",
+        "sha256": "f3d9cabd2ab2421b19a0010e206f1e797ba0c38278c543d25591587f083bd274",
+        "bytes": 9440,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/retained_v2_reproduction_20261105_v1/replay-results/VERIFICATION.json",
+        "sha256": "0544a3ed41ca34550a3be653288becea88f3dc01e025800ccc7564a9e137cdf5",
+        "bytes": 4383,
+        "raw_source_included": false
+      }
+    ],
+    "R3": [
+      {
+        "path_in_research_checkout": "revision/contribution_mechanisms_20261105_v1/REPORT.md",
+        "sha256": "99dc0f693926480e221111ff3ab29ab7ae173483d95ee8ce317261b4a7ef3bea",
+        "bytes": 17154,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/contribution_mechanisms_20261105_v1/RESULTS.json",
+        "sha256": "02edfacab34d3e31ea9ecc1e0b219c94334589a92de07df4601c980e31414cb8",
+        "bytes": 1637,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/contribution_mechanisms_20261105_v1/CATEGORY_RESULTS.json",
+        "sha256": "ad1054a26dccd8d020947a5fad0c80d877fb03df02618e29ec0d7367c5faf2b8",
+        "bytes": 1247,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/contribution_mechanisms_20261105_v1/CATEGORY_VERIFICATION.json",
+        "sha256": "5a73a4b235df9cefb002c7066242ecaa18d3a8001df49353a9413399f5b0f77f",
+        "bytes": 497,
+        "raw_source_included": false
+      }
+    ],
+    "R4": [
+      {
+        "path_in_research_checkout": "revision/question_specific_evidence_20261105_v1/REPORT.md",
+        "sha256": "5dfc92061a815aa68e71970163f4ef3b1d9b3569bbba71939803d41447a3f0d0",
+        "bytes": 10651,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/question_specific_evidence_20261105_v1/VERIFICATION.json",
+        "sha256": "ac58d44e242ef97b903bfdc7e1c2bff17861be620baf338bd1e2e957e350489f",
+        "bytes": 902,
+        "raw_source_included": false
+      }
+    ],
+    "R5": [
+      {
+        "path_in_research_checkout": "revision/sufficiency_baseline_transfer_20261105_v1/REPORT.md",
+        "sha256": "871d1bd4b87e824d3ce4c3545e11cee2fdf2b94d82a8186071ad94f0303c0c63",
+        "bytes": 10908,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/sufficiency_baseline_transfer_20261105_v1/BASELINE_RESULTS.json",
+        "sha256": "7b85953ed7027a821f1d6fbbc47bca8e342ab12db63c1c76d73a70764bd1e79e",
+        "bytes": 783,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "revision/sufficiency_baseline_transfer_20261105_v1/TRANSFER_RESULTS.json",
+        "sha256": "49e6354bb0d255456417ff357199181dc5def37ec11ccc1e2a5055a5d72a8f0c",
+        "bytes": 446,
+        "raw_source_included": false
+      }
+    ],
+    "R6": [
+      {
+        "path_in_research_checkout": "revision/sufficiency_debate_20261105_v2/REPORT.md",
+        "sha256": "d19c68ac1b342356b1506f10f465c1d946c6a4266abd838b10d8d76ab051f78c",
+        "bytes": 16514,
+        "raw_source_included": false
+      }
+    ],
+    "R7": [
+      {
+        "path_in_research_checkout": "pipeline/dep_extractor.py",
+        "sha256": "18c01ff6d24395a1137e78670dc1bfc711fd5d1e4b3fab100dcd46b84453ff93",
+        "bytes": 7121,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/guard/decision.py",
+        "sha256": "3f46268de8abdb3c23cb3b3551350c4e6a3e1579b3a16f93d3c65b6d4ba2810c",
+        "bytes": 5035,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/run_task.py",
+        "sha256": "a845b4f3b6b581e9c90b148d64aabbd4bad6ba8419b77f0582b64c2ead651dd1",
+        "bytes": 15128,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/test_runner.py",
+        "sha256": "96934c83493fceeba3e812920ef0fb96e99579b3f4bf1ad30afbde78587b9339",
+        "bytes": 5588,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/guard/s1_package_existence.py",
+        "sha256": "26250db132fa8969d027446fa6c21ca345be3a91c559075808888ed7583703ba",
+        "bytes": 4774,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/guard/s2_version_validity.py",
+        "sha256": "cbd829c37a585b085cd20dd9a05ff1a03521680d6313530f360294764df08e2d",
+        "bytes": 6401,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/guard/s3_direct_vulnerability.py",
+        "sha256": "f04afca216dfc7bfaf8a9102b2d2326c843fb703bb07db854c070d2a6f626788",
+        "bytes": 4704,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/guard/s4_transitive_vulnerability.py",
+        "sha256": "fbed438ec2387ae835732537f55c20db88590773ef6982b89de0b9962620f239",
+        "bytes": 7278,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/guard/s5_license_policy.py",
+        "sha256": "780a323f04507c31cd1db87533f87aeaa40a7b1df90e465442d504133afa7809",
+        "bytes": 4161,
+        "raw_source_included": false
+      },
+      {
+        "path_in_research_checkout": "pipeline/guard/s6_dependency_restraint.py",
+        "sha256": "daba4a0e1bb315e4939101deb34e1c2cd26516b90ea9ff069a06da1b7bb75e79",
+        "bytes": 1441,
+        "raw_source_included": false
+      }
+    ],
+    "R8": [
+      {
+        "path_in_research_checkout": "results/offline_v2/canonical_runs.jsonl",
+        "sha256": "bde9d8b4d04e8e267cd299737bed080a5956e8cfcac8c6088453792403827b68",
+        "bytes": 21085028,
+        "raw_source_included": false
+      }
+    ]
+  },
+  "source_access": "Paths identify local research sources; they are not download URLs. Most raw inputs are not distributed in this snapshot.",
+  "replay_attachment": {
+    "filename": "asg-retained-v2-20261105-v1.tar.gz",
+    "bytes": 96038178,
+    "sha256": "5fea32b4a134f5d1ccf8372da33ced27efe652a659c2a07c4f2101a28e0731f5",
+    "included": false,
+    "public_download_verified": false
+  },
+  "license_sha256": "f16e5cd7c92279850fe9a72d0a8fe6e76f80baab198eeb25221f9207ffb29187",
+  "fresh_web_reference_verification": false
+}

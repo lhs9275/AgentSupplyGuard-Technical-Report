@@ -1,0 +1,14 @@
+{
+  "selected_declarations": 12,
+  "selected_packages": 12,
+  "evaluated": 12,
+  "unresolved_collection_or_parse": 0,
+  "positive": 2,
+  "candidate_generic_mismatches": 0,
+  "positive_with_other_membership_or_inventory_errors": 1,
+  "old_package_overlap": 4,
+  "author_raw_adapter_disagreements": 0,
+  "actual_human_review_effect_measured": false,
+  "independent_vulnerability_truth": false,
+  "external_native_scanner_run_on_new_cases": false
+}

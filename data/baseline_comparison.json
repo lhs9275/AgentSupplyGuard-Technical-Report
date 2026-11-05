@@ -1,0 +1,14 @@
+{
+  "declarations_compared": 5790,
+  "same_information_output_mismatches": 0,
+  "matched_native_allowed_raw_supported_rows": 5790,
+  "selected_witness_rows": 1202,
+  "selected_identical_advisory_rows": 1202,
+  "selected_witness_present_in_existing_native": 1202,
+  "residual_unknown_selected_witness_rows": 339,
+  "residual_selected_witness_present_in_existing_native": 339,
+  "native_version": "osv-scanner version: 2.6.0\nosv-scalibr version: 0.5.2\ncommit: e840a6e8adb14b7777c78e26cfbf6e2abc1d1fc6\nbuilt at: 2026-09-14T01:44:58Z\n",
+  "native_executed_this_run": false,
+  "independent_security_truth": false,
+  "interpretation": "Same-information positive inference adds no distinct decision. Existing native details are explicitly included; formatting benefit is unmeasured."
+}
