@@ -2,7 +2,7 @@
 
 **Technical report — English edition, 5 November 2026**
 
-This report consolidates existing AgentSupplyGuard research artifacts and subsequent analyses. It is a prepublication technical record, not a peer-reviewed publication or a validation of a deployed security product. Final author and contributor attribution must be confirmed before public release. The research sources identify Hyunsoo Lee and Geunseok Yang; the original license uses the spelling Hyeonsu Lee. Those records are preserved rather than silently reconciled. A course-project team roster is not substituted for research authorship.
+This report consolidates existing AgentSupplyGuard research artifacts and subsequent analyses. It is a technical record, not a peer-reviewed publication or a validation of a deployed security product. The research sources identify Hyunsoo Lee and Geunseok Yang; the original license uses the spelling Hyeonsu Lee. Those source-attribution records are preserved without resolving the spelling difference or designating a finalized research-author list. A course-project team roster is not substituted for research authorship.
 
 ## Abstract
 
@@ -240,4 +240,4 @@ The accompanying [source manifest](../data/source_manifest.json) maps R1–R8 to
 
 Conceptual documentation includes the [PyPI JSON API](https://docs.pypi.org/api/json/), [OSV schema](https://ossf.github.io/osv-schema/), and [OSV-Scanner output documentation](https://google.github.io/osv-scanner/output/). These web references were not newly retrieved during report preparation and do not validate current behavior or reconstruct historical database contents. No systematic literature search or firstness claim is made.
 
-Codex assisted with source inspection, aggregation checks, drafting and translation, and snapshot preparation. This assistance is not external independent review or human validation. The original license and attribution are retained; final authorship, contributor wording, and the public distribution scope require confirmation before any public release.
+Codex assisted with source inspection, aggregation checks, drafting and translation, and snapshot preparation. This assistance is not external independent review or human validation. The original license and source attribution are retained. This report does not grant redistribution rights for omitted raw inputs or full replay attachments.
